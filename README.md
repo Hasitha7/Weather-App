@@ -7,7 +7,7 @@ Using this application, we can check the weather and weather-related details of 
 1. Download the project.
 2. Open the project with VSCode.
 3. Open the terminal.
-4. Run the following command:
+4. Run the following command to install dependencies:
    ```
    npm install
    ```
